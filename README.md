@@ -181,37 +181,37 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/Live%20Report%20Clips/Overral%20Clip.mp4)
+![Overall Report](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/Live%20Report%20Clips/Overral%20Clip.mp4)
 
  ![Home View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Home.png)
 
 ## Info Page
 
- Info [View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Info.png)
+ ![Info View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Info.png)
 
 ## Finance View
 
-Finace [View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Finance.png)
+![Finance View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Finance.png)
 
 ## Sales View
 
-(https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Sales.png)
+![Sales View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Sales.png)
 
 ## Marketing View
 
-(https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Marketing.png)
+![Marketing View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Marketing.png)
 
 ## Supply chain View
 
-(https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Supply%20Chain.png)
+![Supply chain View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Supply%20Chain.png)
 
 ## Executive View
 
-(https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Executive.png)
+![Executive View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Executive.png)
 
 ## Products
 
-(https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Products.png)
+![Products](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Products.png)
 
 you can find the full report file [here](https://app.powerbi.com/groups/me/reports/bdef1cfe-75c4-46bd-8bae-f050b5846b94/5181ac550508e1235e09?experience=power-bi&clientSideAuth=0)
 
