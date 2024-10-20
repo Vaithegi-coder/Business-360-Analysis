@@ -183,7 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Overall Report.gif](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/Live%20Report%20Clips/Overral%20Clip.mp4)
 
- Home [View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Home.png)
+ ![Home View](https://github.com/Vaithegi-coder/Business-360-Analysis/blob/main/360%20images/Home.png)
 
 ## Info Page
 
